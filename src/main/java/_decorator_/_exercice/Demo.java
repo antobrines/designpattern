@@ -37,7 +37,5 @@ public class Demo {
         System.out.println(data);
         System.out.println("- decoded --------------");
         System.out.println(decoded);
-        // Encrypting data and writing it
-        fileDataSourceBis.writeData(data);
     }
 }
